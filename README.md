@@ -78,12 +78,10 @@
 
 ---
 
-
-
 ## 🛡️ Mi Laboratorio de Ciberseguridad
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdybG4wZnB5Mm85ZXBqMjBmd284MXZ6ODN4bzMwMGpsbWxmOHJibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="Ciberseguridad" width="400"/>
+  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" alt="Ciberseguridad" width="400"/>
 </p>
 
 <p align="center">
@@ -93,5 +91,8 @@
 <p align="center">
   <a href="https://github.com/tu-usuario"><img src="https://img.shields.io/badge/Ver%20Mis%20Proyectos-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
+
+
+
 
 
