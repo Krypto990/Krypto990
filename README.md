@@ -81,7 +81,7 @@
 ## 🛡️ Mi Laboratorio de Ciberseguridad
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" alt="Ciberseguridad" width="400"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Shield-icon.png" alt="Ciberseguridad" width="200"/>
 </p>
 
 <p align="center">
@@ -91,6 +91,8 @@
 <p align="center">
   <a href="https://github.com/tu-usuario"><img src="https://img.shields.io/badge/Ver%20Mis%20Proyectos-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
+
+
 
 
 
