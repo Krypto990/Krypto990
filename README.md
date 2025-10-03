@@ -78,8 +78,18 @@
 
 ---
 
-## 🐍 Contribuciones en GitHub
+---
+
+## 🛡️ Actividad y Proyectos en Ciberseguridad
 
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Contributions" />
+  <img src="https://media.giphy.com/media/3o6gE6n5hR3MIV2pCk/giphy.gif" alt="Cybersecurity Activity" width="600"/>
 </p>
+
+<p align="center">
+  🔹 Desarrollo de scripts de automatización y reconocimiento facial.<br>
+  🔹 Auditorías de seguridad internas y asesoría a cuerpos de policía cibernética.<br>
+  🔹 Experimentos con Nmap, Nessus, Maltego y Linux para monitoreo y análisis de redes.<br>
+  🔹 Participación en proyectos de protección y detección de intrusiones.
+</p>
+
