@@ -81,7 +81,7 @@
 ## 🛡️ Mi Laboratorio de Ciberseguridad
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHgzNWZuZTR0ZjBjbjRvZ3Z1ZWE1bHFrOWdlZXFvdHh3ZG9ja2pyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="400"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZrbm5qdW1scDFqNDJyNDczbGh6c2wyZG5za2E3dzBhbG9odHllZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="400"/>
 </p>
 
 <p align="center">
