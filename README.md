@@ -90,7 +90,7 @@
 </p>
 
 <p align="center">
-  Cada día detectando vulnerabilidades, probando exploits y asegurando sistemas como un verdadero hacker ético. 🔒💻
+  Cuanto más silencioso te vuelves, más puedes escuchar   --KALI LINUX 🔒💻
 </p>
 
 <p align="center">
