@@ -83,7 +83,7 @@
 ## 🛡️ Mi Laboratorio de Ciberseguridad
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Mblp9fLr2iFv0rO/giphy.gif" alt="Ciberseguridad" width="400"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdybG4wZnB5Mm85ZXBqMjBmd284MXZ6ODN4bzMwMGpsbWxmOHJibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="Ciberseguridad" width="400"/>
 </p>
 
 <p align="center">
