@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ing.+en+Ciberseguridad+y+Redes+Inteligentes;Analista+de+Seguridad+Cibernética;Automatización,+Analisis+de+vulnerabilidades;Cursos+CCNAv7,computo+en+la+nube+NDG+LINUX,+Fortinet;Siempre+aprendiendo+nuevas+herramientas">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ing.+en+Ciberseguridad+y+Redes+Inteligentes;Analista+de+Seguridad+Cibernética;Automatización,+Analisis+de+vulnerabilidades;Cursos+CCNAv7,+NDG+LINUX,+Fortinet;Siempre+aprendiendo+nuevas+herramientas">
   </a>
 </p>
 
