@@ -81,7 +81,7 @@
 ## 🛡️ Mi Laboratorio de Ciberseguridad
 
 <p align="center">
-  <img src="[![til]([https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)https://upload.wikimedia.org/wikipedia/commons/e/e3/Shield-icon.png](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdybG4wZnB5Mm85ZXBqMjBmd284MXZ6ODN4bzMwMGpsbWxmOHJibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZrbm5qdW1scDFqNDJyNDczbGh6c2wyZG5za2E3dzBhbG9odHllZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)" alt="Ciberseguridad" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZrbm5qdW1scDFqNDJyNDczbGh6c2wyZG5za2E3dzBhbG9odHllZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Ciberseguridad" width="200"/>
 </p>
 
 <p align="center">
