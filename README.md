@@ -33,50 +33,55 @@
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> Lenguajes de Programación
 <p align="center"> 
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white"></a>
+  <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"></a>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white"></a>
+  <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
 </p>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture> Herramientas & Software
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Nmap-0D3B66?style=plastic&logo=nmap&logoColor=white"></a>
+  <a href="#"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-0D3B66?style=for-the-badge&logo=nmap&logoColor=white"></a>
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Maltego-2C2C54?style=plastic&logo=maltego&logoColor=white"></a>
+  <a href="#"><img alt="Maltego" src="https://img.shields.io/badge/Maltego-2C2C54?style=for-the-badge&logo=maltego&logoColor=white"></a>
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Nessus-FF6F61?style=plastic&logo=nessus&logoColor=white"></a>
+  <a href="#"><img alt="Nessus" src="https://img.shields.io/badge/Nessus-FF6F61?style=for-the-badge&logo=nessus&logoColor=white"></a>
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/MS_Console-0F52BA?style=plastic&logo=windows&logoColor=white"></a>
+  <a href="#"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-CC0000?style=for-the-badge&logo=metasploit&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="MS Console" src="https://img.shields.io/badge/MS_Console-0F52BA?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> IDEs y Entornos
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/VS_Code-0078D7?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/JetBrains-000000?style=plastic&logo=jetbrains&logoColor=white"></a>
+  <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"></a>
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipse&logoColor=white"></a>
+  <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"></a>
 </p>
 
----
-
-## 📫 Conectemos
-
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Cybersecurity.gif?raw=true" width="50px"> </picture> Especialización en Ciberseguridad
 <p align="center">
-  <a href="mailto:christopherbar521@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white"></a>
+  <a href="#"><img alt="Ethical Hacking" src="https://img.shields.io/badge/Ethical_Hacking-FF4B2B?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white"></a>
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6F61?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali&logoColor=white"></a>
 </p>
 
 ---
+
+
 
 ## 🛡️ Mi Laboratorio de Ciberseguridad
 
