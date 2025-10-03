@@ -80,16 +80,18 @@
 
 ---
 
-## 🛡️ Actividad y Proyectos en Ciberseguridad
+## 🛡️ Mi Laboratorio de Ciberseguridad
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6gE6n5hR3MIV2pCk/giphy.gif" alt="Cybersecurity Activity" width="600"/>
+  <img src="https://media.giphy.com/media/3o6Mblp9fLr2iFv0rO/giphy.gif" alt="Ciberseguridad" width="400"/>
 </p>
 
 <p align="center">
-  🔹 Desarrollo de scripts de automatización y reconocimiento facial.<br>
-  🔹 Auditorías de seguridad internas y asesoría a cuerpos de policía cibernética.<br>
-  🔹 Experimentos con Nmap, Nessus, Maltego y Linux para monitoreo y análisis de redes.<br>
-  🔹 Participación en proyectos de protección y detección de intrusiones.
+  Cada día detectando vulnerabilidades, probando exploits y asegurando sistemas como un verdadero hacker ético. 🔒💻
 </p>
+
+<p align="center">
+  <a href="https://github.com/tu-usuario"><img src="https://img.shields.io/badge/Ver%20Mis%20Proyectos-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub"/></a>
+</p>
+
 
