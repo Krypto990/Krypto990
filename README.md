@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ing.+en+Ciberseguridad+y+Redes+Inteligentes;Analista+de+Seguridad+Cibernética;Automatización+y+Análisis+de+Vulnerabilidades;Certificaciones+CCNA+v7,+NDG+Linux,+Fortinet;Siempre+aprendiendo+nuevas+herramientas">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ing.+en+Ciberseguridad+y+Redes+Inteligentes;Analista+de+Seguridad+Cibernética;Automatización+y+Análisis+de+Vulnerabilidades;Cursos+CCNA+v7,+NDG+Linux,+Fortinet;Siempre+aprendiendo+nuevas+herramientas">
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 - 👮 Asesor técnico de la **Policía Cibernética**
 - 💻 Experto en **automatización y desarrollo de scripts** para optimizar procesos de seguridad
 - 🐍 Dominio de **Python, Dart, React Native, C++, R**
-- 📜 Certificaciones: **CCNA v7, NDG Linux, Fortinet** y Diploma en Liderazgo
+- 📜 Cursos: **CCNA v7, NDG Linux, Fortinet** y Diploma en Liderazgo
 - 🚀 Abierto a nuevas oportunidades laborales
 - 📧 Contacto: [christopherbar521@gmail.com](mailto:christopherbar521@gmail.com)
 
@@ -35,8 +35,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Krypto990&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krypto990&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
 </p>
 
 <br>
@@ -99,7 +99,7 @@
 
 <br>
 
-## 🎓 Certificaciones y Formación
+## 🎓 Cursos y Formación
 
 <p align="center">
   <img src="https://img.shields.io/badge/CCNA_v7-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA v7"/>
@@ -153,5 +153,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Krypto990&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views" />
 </p>
